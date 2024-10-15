@@ -1,4 +1,4 @@
-## Tiptap Spotlight
+# Tiptap Spotlight
 
 Tiptap Spotlight - extension for fast adding content, use only slash to do everything.
 
@@ -10,6 +10,12 @@ With this thing you can do the following quickly:
 - write text in different colors, write /blue to write text in blue
 - align text, write /center to align it to the center
 - perform actions, write /delete to delete a paragraph, and possibly its parent as well
+
+## Demo
+
+
+[](https://github.com/user-attachments/assets/5375decb-2b5f-4ab8-a83a-ec22b2cd36a4)
+
 
 ## How to use
 
