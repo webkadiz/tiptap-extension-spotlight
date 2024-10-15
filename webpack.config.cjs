@@ -29,7 +29,7 @@ module.exports = {
   },
 
   output: {
-    path: path.resolve(__dirname, "playground"),
+    path: path.resolve(__dirname, "docs"),
     assetModuleFilename: "assets/[hash][ext][query]",
     clean: true,
   },
