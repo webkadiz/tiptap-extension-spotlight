@@ -660,6 +660,11 @@ export const SpotlightTextSection = new SpotlightSection(
   ]
 )
 
+export const SpotlightAlignSection = new SpotlightSection(
+  { name: "align", label: "align" },
+  [SpotlightAlignLeft, SpotlightAlignCenter, SpotlightAlignRight]
+)
+
 export const SpotlightActionSection = new SpotlightSection(
   { name: "action", label: "actions" },
   [SpotlightDelete]
@@ -669,5 +674,6 @@ export const baseSpotlightManager = new SpotlightManager([
   SpotlightBlockSection,
   SpotlightTurnSection,
   SpotlightTextSection,
+  SpotlightAlignSection,
   SpotlightActionSection,
 ])

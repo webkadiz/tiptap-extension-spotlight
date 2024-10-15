@@ -58,7 +58,9 @@ const App: FC = () => {
       CodeBlock,
       Heading,
       Code,
-      TextAlign,
+      TextAlign.configure({
+        types: ["heading", "paragraph"],
+      }),
       Link,
       Spotlight,
     ],

@@ -57,7 +57,7 @@ If you need to customize a spotlight section (set of items), you have such metho
 remove item:
 
 ```javascript
-SpotlightBlockSection.removeItem("headin1")
+SpotlightBlockSection.removeItem("heading1")
 ```
 
 addItems, at the end or after the specified:

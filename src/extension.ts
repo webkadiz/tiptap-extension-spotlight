@@ -112,8 +112,6 @@ export const generateSuggestionOptions = ({
             content: component.element,
             ...tippyProps,
           })
-
-          console.log(popup)
         },
 
         onUpdate(props) {

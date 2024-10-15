@@ -1,7 +1,6 @@
 const typescript = require("rollup-plugin-typescript2")
 const { nodeResolve } = require("@rollup/plugin-node-resolve")
 const del = require("rollup-plugin-delete")
-const copy = require("rollup-plugin-copy")
 
 const config = [
   {
