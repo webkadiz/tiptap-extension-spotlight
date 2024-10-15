@@ -24,6 +24,14 @@
   "main": "commonjs/index.cjs",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webkadiz/tiptap-extension-spotlight"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/webkadiz/tiptap-extension-spotlight"
+  },
   "scripts": {
     "build": "rollup -c",
     "start": "webpack-dev-server --config webpack.config.cjs"
