@@ -34,7 +34,8 @@
   },
   "scripts": {
     "build": "rollup -c",
-    "start": "webpack-dev-server --config webpack.config.cjs"
+    "start": "webpack-dev-server --config webpack.config.cjs",
+    "pg:build": "webpack --config webpack.config.cjs"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.25.4",
