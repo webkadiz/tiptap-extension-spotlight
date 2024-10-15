@@ -13,9 +13,10 @@ With this thing you can do the following quickly:
 
 ## Demo
 
-
 [](https://github.com/user-attachments/assets/5375decb-2b5f-4ab8-a83a-ec22b2cd36a4)
 
+
+try: https://webkadiz.github.io/tiptap-extension-spotlight/
 
 ## How to use
 
