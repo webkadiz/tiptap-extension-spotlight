@@ -1,6 +1,6 @@
 {
   "name": "@webkadiz/tiptap-extension-spotlight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiptap Spotlight - extension for fast adding content, use only slash to do everything",
   "keywords": [
     "tiptap",
